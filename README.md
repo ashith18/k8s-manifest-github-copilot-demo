@@ -27,7 +27,7 @@ GitHub Copilot can significantly speed up the development process by providing A
 # Screenshots - GitHub Copilot
 
 # Jenkins File - for deployment
-![Image Alt text](Images/Jenkins.png "Jenkins")
+![Image Alt text](Images/Jenkinsfile.png "Jenkins")
 
 # K8s Deployment File
 ![Image Alt text](Images/deployment.png "deployment")
